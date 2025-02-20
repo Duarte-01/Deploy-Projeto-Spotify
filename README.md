@@ -33,7 +33,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 📸 Demonstração
 
-<img src="C:\Users\Lenovo\Pictures\Screenshots\Captura de tela 2025-02-20 113250.png" alt="Demonstração do Spotify Clone" width="700px">
+<img src="C:\Pictures\Screenshots\Captura de tela 2025-02-20 113250.png" alt="Demonstração do Spotify Clone" width="700px">
 
 ---
 
