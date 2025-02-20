@@ -22,7 +22,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - **React Router DOM** – Navegação entre páginas no React.
 - **FontAwesome** – Ícones estilizados para a interface.
-- **Axios** – Cliente HTTP para requisições à API do Spotify.
+- **Axios** – Cliente HTTP para requisições.
 
 ### 🔹 Backend
 
@@ -34,7 +34,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## ⚙️ Funcionalidades
 
-- 🔍 **Busca por músicas e artistas**
+- 🔍 **Navegação por músicas e artistas**
 - 🎧 **Reprodução de músicas com interface personalizada**
 - 📜 **Exibição de playlists e álbuns**
 - 📡 **Consumo de API para dados dinâmicos**
